@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jash2002
-- 👀 I’m interested in anyhting Cyber 
-- 🌱 I’m currently learning multiple modules to do with the foundations of CS 
--  I’m looking to collaborate on Red Teaming 
+- Hi, I’m @jash2002
+- I’m interested in anyhting Cyber 
+- I’m currently learning multiple modules to do with the foundations of CS 
+- I’m looking to collaborate on Red Teaming 
 
 
 <!---
